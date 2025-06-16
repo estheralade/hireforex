@@ -1,77 +1,31 @@
 <?php
 
 return [
-    'What is Arbitrage business and how does it work?' => [
-        'Arbitrage business is a business model that takes advantage of currency price differences in different currency markets or locations to generate profit.'
+    'About Cardbeta?' => [
+        'Cardbeta is a secure and user-friendly platform that allows users to buy gift cards and e-cards at competitive rates. We connect users with discounted digital cards from top global brands, ensuring a smooth and transparent purchasing experience.',
+        'With Cardbeta, users can:',
+        '- Fund their accounts using Bybit or USDT (TRC-20/BEP-20).',
+        '- Browse and purchase a wide variety of gift cards with flexible quantity options.',
+        '- Receive card codes after a flexible delivery duration, helping ensure accuracy and security.',
+        '- Track their transactions in real-time through their dashboard and order history.',
+        'Our mission is to make digital gifting and value storage more accessible and affordable. Whether you\'re a vendor or an everyday buyer, Cardbeta gives you the tools to get the best and cheapest digital cards faster.'
     ],
-
-    'How does Profitchain work?' => [
-        'Profitchain gives you access to the Global Arbitrage Market, where you can buy USD and trade for profit.',
-        'As a private member, you can trade from your dashboard by buying USD, exchanging it for two other currencies to make a profit, and then converting it back to USD automatically after an 4-9 hours trade cycle.',
-        'For example, if you have $50 in your Profitchain account, go to the arbitrage market from your dashboard and select a profitable arbitrage currency combination (e.g., Mexico Rupee & Singapore Dollar). You will see the expected profit (e.g., 16%), then click TRADE. The system will exchange your money for 8 hours and automatically convert it back to USD with a profit of $11, giving you a total of $57. You can then withdraw your earnings in Naira to your bank account.'
+    'How do I fund my Cardbeta account?' => [
+        'You can top up your Cardbeta wallet using either a Bybit transfer or a USDT transfer via TRC-20 or BEP-20 networks. After transferring, submit the required details (amount, screenshot, and email if using Bybit) on the top-up page. Your account will be credited within 10 minutes after confirmation.'
     ],
-
-    'How do I get started with arbitrage trading?' => [
-        'To start trading, register on Profitchain, complete your KYC verification, and fund your USD balance. Once verified, you can select an arbitrage currency pair from the market and begin trading.'
+    'When will I receive the gift card code after purchase?' => [
+        'Gift card codes are not released instantly. Each card has a specified delivery duration set based on availability. Once that time elapses, the code will automatically become visible under your Current Order or Order History.'
     ],
-
-    'How much is the registration bonus, and how can I claim it?' => [
-        'New users receive a $5 welcome bonus after completing KYC verification. However, you must trade at least $30 to unlock and use the bonus.'
+    'Can I buy more than one gift card at a time?' => [
+        'Yes, You can purchase multiple units of the same gift card (if available) or different types of gift cards in a single session. Just ensure your Cardbeta wallet has sufficient balance.'
     ],
-
-    'What are the withdrawal requirements and processing time?' => [
-        'Withdrawals are processed within 24 hours using the standard USD rate. A transaction fee applies, and withdrawals are only possible from your withdrawal balance.'
+    'What happens if a gift card is unavailable?' => [
+        'If a gift card is unavailable (i.e., 0 units available), you\'ll receive a message stating it\'s not currently available. You can either check back later or choose another card from the marketplace.'
     ],
-
-    'How do I buy or fund USD into my Profitchain account?' => [
-        'You can buy USD from verified dealers. Choose a dealer, enter the amount, make payment via Naira or USDT, upload proof, and wait for dealer confirmation.'
+    'How can I track the status of my top-up?' => [
+        'After submitting your top-up details, you can monitor the status on your Top-Up Page or in your Top-Up History.'
     ],
-
-    'What should I do if I have an issue with a dealer?' => [
-        'If you experience any issues during a transaction, you can file a dispute via the dispute page or contact a mediator on WhatsApp for quick resolution.'
+    'What if I submitted the wrong details during top-up or order?' => [
+        'If you submitted incorrect details during a top-up, contact support immediately via support@cardbeta.com'
     ],
-
-    'Where can I see proof that Profitchain works?' => [
-        'For transparency, Profitchain uploads daily withdrawal proofs every 24 to 48 hours. These can be viewed and downloaded from the Payouts page.'
-    ],
-
-    'How does the arbitrage market work?' => [
-        'The arbitrage market allows users to trade USD against currency combinations. Once a trade is selected, the system processes it for 8 to 14 hours before converting it back to USD, along with your profit.'
-    ],
-
-    'What happens if I don’t verify my account?' => [
-        'Unverified users cannot buy USD, trade, or withdraw funds. To verify your account, complete the KYC verification by submitting the required documents.'
-    ],
-
-    'How do I track my active trades?' => [
-        'You can view all your ongoing trades under the "My Active Trades" section on your dashboard. Completed trades will be credited to your withdrawal balance.'
-    ],
-
-    'Can I edit my account details after registration?' => [
-        'You can edit your bank details and phone number from your account settings. However, your username and email address cannot be changed after registration.'
-    ],
-
-    'Can I use multiple accounts on Profitchain?' => [
-        'No, multiple accounts are strictly prohibited. Any user found operating multiple accounts may have their accounts suspended or banned.'
-    ],
-
-    'What is the minimum USD I can buy or trade in the arbitrage market?' => [
-        'No minimum because the minimum USD depends on the dealer limit and the minimum trading amount varies depending on the available arbitrage pairs. You can check the specific trade limits on the arbitrage market page before placing a trade.'
-    ],
-
-    'How often can I withdraw?' => [
-        'You can withdraw at any time, but each withdrawal is subject to a transaction fee and will be processed within 24 hours.'
-    ],
-
-    'Can I trade multiple arbitrage combinations at the same time?' => [
-        'Yes, you can trade multiple arbitrage currency pairs simultaneously as long as you have sufficient funds in your USD balance.'
-    ],
-
-    'How do I check the USD to Naira exchange rate before withdrawing?' => [
-        'The current USD to Naira exchange rate is displayed on the withdrawal page before you proceed with your withdrawal.'
-    ],
-
-    'What happens if an arbitrage combination reaches its capacity before I place my trade?' => [
-        'Arbitrage trades operate on a first-come, first-served basis. If a trade combination reaches its limit, you must choose another available trade.'
-    ]
 ];
